@@ -1,0 +1,10 @@
+server:
+   port: 8082
+person:
+   name: zhangsan
+   age: 12
+   sex: 男
+   likes:
+      - book
+      - movie
+      - girl
